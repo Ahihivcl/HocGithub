@@ -14,7 +14,7 @@ int main()
                 window.close();
             }
         }
-
+        std::cout << "Ditmemay";
         // Clear the window with black color
         window.clear();
         window.display();
